@@ -1,1 +1,7 @@
-# jamk
+- Harjoitustyö
+- Aleksi Forssell
+- 13.11.2024
+- Ohjelmoinnin perusteet TT00CD77-3013
+- Tehtässä piti tehdä joku ohjelma, joka käyttää kurssilla opittuja asioita esim: funktiot, muuttujat ja tulostus
+- Minä tein laskimen, laskin kysyy ensiksi käyttäjältä "Anna luku", jonka jälkeen että "Anna toinen luku", jonka jälkeen laskin käskee sinun valita 1-5 numeroista mitä haluat tehdä laskimella, 1=yhteenlasku, 2=vähennyslasku, 3=kertolasku, 4=jakolasku ja 5= laskimen sammutus.
+- Käytin laskimen tekemiseen suunnilleen 3 tuntia
